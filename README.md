@@ -1,4 +1,6 @@
-### Hi there 👋
+# Santi Cros
+
+Hey! I'm a 22 year's old Frontend developer and UX/UI Designer, currently creating amazing experiences at [Domestic Streamers](https://domesticstreamers.com/).
 
 <!--
 **santicros/santicros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
